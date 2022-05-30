@@ -3,3 +3,10 @@ body {
     color: aliceblue;
     text-align: center;
 }
+.header{
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+    border:  solid whitesmoke;
+    padding: 10px;
+}
