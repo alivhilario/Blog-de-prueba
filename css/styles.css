@@ -7,6 +7,6 @@ body {
     width: 250px;
     height: 250px;
     margin: 0 auto;
-    border:  solid whitesmoke;
+    border:  solid rgb(207, 7, 7);
     padding: 10px;
 }
